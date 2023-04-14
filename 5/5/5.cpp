@@ -1,6 +1,10 @@
 ﻿
 
 #include <iostream>
+void f()
+{
+
+}
 void a()
 {
 
