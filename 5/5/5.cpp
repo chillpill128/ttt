@@ -2,8 +2,7 @@
 
 #include <iostream>
 
-d t
-     f
+f
 void i()
 {
 
