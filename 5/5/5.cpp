@@ -1,7 +1,10 @@
 ﻿
 
 #include <iostream>
+void i()
+{
 
+}
 void u()
 {
 
