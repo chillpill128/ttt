@@ -2,7 +2,10 @@
 
 #include <iostream>
 
+void u()
+{
 
+}
 void t()
 {
 
