@@ -8,7 +8,7 @@ d t
      j
 void i()
 {
-
+cout<<'rr'<<endl;
 }
 void u()
 {
